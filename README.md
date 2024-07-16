@@ -1,4 +1,4 @@
-# Finance Folio App
+# GrooveBox
 This is a free music streaming web application built with Next.js and powered by the savan API. The app allows users to search and stream music from a vast collection of songs available on the Saavn platform.
 
 
